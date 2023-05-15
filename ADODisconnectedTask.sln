@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADODisconnectedTask", "ADODisconnectedTask\ADODisconnectedTask.csproj", "{FE42EECF-08EB-40F7-81B9-FC93E94A0D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE42EECF-08EB-40F7-81B9-FC93E94A0D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE42EECF-08EB-40F7-81B9-FC93E94A0D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE42EECF-08EB-40F7-81B9-FC93E94A0D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE42EECF-08EB-40F7-81B9-FC93E94A0D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF068B7-3EC7-460F-BABB-872BBB99623E}
+	EndGlobalSection
+EndGlobal
